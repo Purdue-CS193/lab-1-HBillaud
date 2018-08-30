@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Hadrien Billaud first CS193 Lab
+
+- TAs provide great assistance when needed 
+- Not gonna lie the lab is pretty cool
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,11 +14,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Hadrien Billaud first CS193 Lab
+# Header
 
-- TAs provide great assistance when needed
-- Not gonna lie the lab is pretty cool
-- I enjoy using UNIX
+- bulleted
+- list
 
 1. Numbered
 2. List
